@@ -7,9 +7,9 @@
   },
   "server": {
     "ip": "FenotMC.aternos.me",
-    "port": 27586,
+    "port": 25976,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
